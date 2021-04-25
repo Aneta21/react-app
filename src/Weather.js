@@ -3,7 +3,7 @@ import Form from "./Form";
 import Footer from "./Footer";
 
 export default function Weather() {
-  let weatherData = {
+  const weatherData = {
     city: "Prague",
     day: "Monday",
     time: "15:00",
