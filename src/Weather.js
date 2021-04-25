@@ -1,4 +1,3 @@
-import React from "react";
 import "./Weather.css";
 import Form from "./Form";
 import Footer from "./Footer";
