@@ -9,6 +9,7 @@ export default function Footer() {
           className="github"
           href="https://github.com/Aneta21/react-app"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source code
         </a>{" "}
@@ -17,6 +18,7 @@ export default function Footer() {
           className="aneta"
           href="https://www.linkedin.com/in/aneta-stepankova"
           target="_blank"
+          rel="noreferrer"
         >
           Aneta
         </a>
