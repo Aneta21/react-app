@@ -7,11 +7,11 @@ export default function Footer() {
       <footer>
         <a
           className="github"
-          href="https://github.com/Aneta21/Weather-app-project"
+          href="https://github.com/Aneta21/react-app"
           target="_blank"
         >
           Open-source code
-        </a>
+        </a>{" "}
         by{" "}
         <a
           className="aneta"
