@@ -1,0 +1,14 @@
+.Form .form-control {
+  margin-left: 200px;
+  border: 1px solid #668983;
+  box-shadow: rgba(190, 190, 177, 0.75) 0 5px 10px 0;
+}
+.Form .btn-outline-secondary {
+  color: #668983;
+  box-shadow: rgba(190, 190, 177, 0.75) 0 5px 10px 0;
+}
+.Form .btn-outline-secondary:hover {
+  background-color: #668983;
+  color: rgba(237, 237, 220, 0.75);
+  transition: all 200ms ease-in-out;
+}
