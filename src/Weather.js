@@ -46,10 +46,7 @@ export default function Weather() {
                       {weatherData.temperature}
                     </span>
                     <span className="units">
-                      <a href="#" className="active">
-                        °C
-                      </a>{" "}
-                      |<a href="#"> °F</a>
+                      <a className="active">°C</a> |<a> °F</a>
                     </span>
                   </span>
                 </div>
